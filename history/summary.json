@@ -41,17 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.trance-0.com.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 609,
     "timeDay": 609,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-30": 0
+    }
   },
   {
     "name": "Codebook",
@@ -142,7 +144,7 @@
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-30": 110,
+      "2025-08-30": 184,
       "2025-08-29": 224
     }
   },
@@ -181,7 +183,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-08-30": 110,
+      "2025-08-30": 184,
       "2025-08-29": 224
     }
   },
@@ -227,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sophiaspathbackend-production.up.railway.app.ico",
     "slug": "sophia-s-path-backend",
     "status": "up",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "18.17%",
+    "uptimeDay": "18.17%",
+    "uptimeWeek": "18.17%",
+    "uptimeMonth": "18.17%",
+    "uptimeYear": "18.17%",
     "time": 3606,
     "timeDay": 3606,
     "timeWeek": 3606,
