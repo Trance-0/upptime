@@ -22,19 +22,19 @@
     "url": "https://www.trance-0.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.trance-0.com.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1213,
-    "timeDay": 1531,
-    "timeWeek": 1213,
-    "timeMonth": 1213,
-    "timeYear": 1213,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 1102,
+    "timeDay": 1286,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 8
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.trance-0.com.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.36%",
     "uptimeDay": "95.06%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "95.34%",
-    "uptimeYear": "95.34%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "95.36%",
     "time": 578,
     "timeDay": 567,
     "timeWeek": 578,
@@ -146,7 +146,7 @@
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-30": 1301,
+      "2025-08-30": 1309,
       "2025-08-29": 224
     }
   },
@@ -185,7 +185,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-08-30": 1301,
+      "2025-08-30": 1309,
       "2025-08-29": 224
     }
   },
@@ -231,11 +231,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sophiaspathbackend-production.up.railway.app.ico",
     "slug": "sophia-s-path-backend",
     "status": "up",
-    "uptime": "78.12%",
-    "uptimeDay": "82.73%",
-    "uptimeWeek": "78.12%",
-    "uptimeMonth": "78.12%",
-    "uptimeYear": "78.12%",
+    "uptime": "78.23%",
+    "uptimeDay": "83.27%",
+    "uptimeWeek": "78.23%",
+    "uptimeMonth": "78.23%",
+    "uptimeYear": "78.23%",
     "time": 3606,
     "timeDay": 5860,
     "timeWeek": 3606,
