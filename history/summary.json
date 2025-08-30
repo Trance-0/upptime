@@ -4,18 +4,20 @@
     "url": "https://index.trance-0.com",
     "icon": "https://icons.duckduckgo.com/ip3/index.trance-0.com.ico",
     "slug": "index",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-30": 1
+    }
   },
   {
     "name": "Blog",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.trance-0.com.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "85.17%",
-    "uptimeDay": "85.17%",
-    "uptimeWeek": "85.17%",
-    "uptimeMonth": "85.17%",
-    "uptimeYear": "85.17%",
+    "uptime": "87.61%",
+    "uptimeDay": "87.61%",
+    "uptimeWeek": "87.61%",
+    "uptimeMonth": "87.61%",
+    "uptimeYear": "87.61%",
     "time": 578,
     "timeDay": 578,
     "timeWeek": 578,
@@ -60,18 +62,20 @@
     "url": "https://code.trance-0.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.trance-0.com.ico",
     "slug": "codebook",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-30": 0
+    }
   },
   {
     "name": "NoteNextra",
@@ -144,7 +148,7 @@
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-30": 256,
+      "2025-08-30": 350,
       "2025-08-29": 224
     }
   },
@@ -183,7 +187,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-08-30": 256,
+      "2025-08-30": 350,
       "2025-08-29": 224
     }
   },
@@ -229,11 +233,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sophiaspathbackend-production.up.railway.app.ico",
     "slug": "sophia-s-path-backend",
     "status": "up",
-    "uptime": "30.41%",
-    "uptimeDay": "30.41%",
-    "uptimeWeek": "30.41%",
-    "uptimeMonth": "30.41%",
-    "uptimeYear": "30.41%",
+    "uptime": "41.87%",
+    "uptimeDay": "41.87%",
+    "uptimeWeek": "41.87%",
+    "uptimeMonth": "41.87%",
+    "uptimeYear": "41.87%",
     "time": 3606,
     "timeDay": 3606,
     "timeWeek": 3606,
