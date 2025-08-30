@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.trance-0.com.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "uptime": "85.17%",
+    "uptimeDay": "85.17%",
+    "uptimeWeek": "85.17%",
+    "uptimeMonth": "85.17%",
+    "uptimeYear": "85.17%",
+    "time": 578,
+    "timeDay": 578,
+    "timeWeek": 578,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 71
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-30": 184,
+      "2025-08-30": 256,
       "2025-08-29": 224
     }
   },
@@ -183,7 +183,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-08-30": 184,
+      "2025-08-30": 256,
       "2025-08-29": 224
     }
   },
@@ -229,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sophiaspathbackend-production.up.railway.app.ico",
     "slug": "sophia-s-path-backend",
     "status": "up",
-    "uptime": "18.17%",
-    "uptimeDay": "18.17%",
-    "uptimeWeek": "18.17%",
-    "uptimeMonth": "18.17%",
-    "uptimeYear": "18.17%",
+    "uptime": "30.41%",
+    "uptimeDay": "30.41%",
+    "uptimeWeek": "30.41%",
+    "uptimeMonth": "30.41%",
+    "uptimeYear": "30.41%",
     "time": 3606,
     "timeDay": 3606,
     "timeWeek": 3606,
