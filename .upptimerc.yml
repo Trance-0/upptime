@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Trance-0 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -28,7 +28,7 @@ sites:
   - name: Sophia's path (frontend)
     url: https://www.sophiaspath.org
   - name: Sophia's path (backend)
-    url: https://sophiaspathbackend-production.up.railway.app
+    url: https://sophiaspathbackend-production.up.railway.app/admin
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -41,11 +41,11 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: INDEX
-      href: https://index.trance-0.com\
+      href: https://index.trance-0.com/
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/upptime/upptime
+      href: https://github.com/Trance-0/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
