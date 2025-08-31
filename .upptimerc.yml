@@ -17,12 +17,8 @@ sites:
     url: https://portainer.trance-0.com
   - name: Jenkins
     url: https://portainer.trance-0.com
-  - name: Dify
-    url: https://dify.trance-0.com
   - name: NAS
     url: https://nas.trance-0.com
-  - name: Ollama
-    url: https://ollama.trance-0.com
   - name: NPS
     url: https://nps.trance-0.com
   - name: Sophia's path (frontend)
