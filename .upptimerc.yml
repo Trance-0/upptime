@@ -22,7 +22,7 @@ sites:
   - name: NPS
     url: https://nps.trance-0.com
   - name: Sophia's path (frontend)
-    url: https://www.sophiaspath.org
+    url: https://sophiaspath.vercel.app
   - name: Sophia's path (backend)
     url: https://sophiaspathbackend-production.up.railway.app/admin
 
