@@ -16,7 +16,7 @@ sites:
   - name: Portainer
     url: https://portainer.trance-0.com
   - name: Jenkins
-    url: https://portainer.trance-0.com
+    url: https://jenkins.trance-0.com
   - name: NAS
     url: https://nas.trance-0.com
   - name: NPS
