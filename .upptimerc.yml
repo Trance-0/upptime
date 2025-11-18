@@ -13,12 +13,10 @@ sites:
     url: https://code.trance-0.com
   - name: NoteNextra
     url: https://notenextra.trance-0.com
-  - name: Portainer
-    url: https://portainer.trance-0.com
   - name: NAS
     url: https://nas.trance-0.com
-  - name: NPS
-    url: https://nps.trance-0.com
+  - name: Gitea
+    url: https://git.trance-0.com
   - name: Sophia's path (frontend)
     url: https://sophiaspath.vercel.app
   - name: Sophia's path (backend)
