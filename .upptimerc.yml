@@ -17,6 +17,8 @@ sites:
     url: https://nas.trance-0.com
   - name: Gitea
     url: https://git.trance-0.com
+  - name: Koishi
+    url: https://koishi.trance-0.com
   - name: Sophia's path (frontend)
     url: https://sophiaspath.vercel.app
   - name: Sophia's path (backend)
