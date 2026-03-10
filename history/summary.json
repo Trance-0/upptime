@@ -13,7 +13,7 @@
     "time": 192,
     "timeDay": 110,
     "timeWeek": 133,
-    "timeMonth": 174,
+    "timeMonth": 177,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2026-01-18": 20,
@@ -43,7 +43,7 @@
     "time": 4331,
     "timeDay": 2390,
     "timeWeek": 3906,
-    "timeMonth": 3211,
+    "timeMonth": 3261,
     "timeYear": 4331,
     "dailyMinutesDown": {
       "2026-03-06": 45,
@@ -88,7 +88,7 @@
     "time": 601,
     "timeDay": 705,
     "timeWeek": 583,
-    "timeMonth": 548,
+    "timeMonth": 550,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2026-03-01": 628,
@@ -151,7 +151,7 @@
     "time": 196,
     "timeDay": 152,
     "timeWeek": 133,
-    "timeMonth": 156,
+    "timeMonth": 158,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2026-01-18": 20,
@@ -181,7 +181,7 @@
     "time": 327,
     "timeDay": 366,
     "timeWeek": 265,
-    "timeMonth": 264,
+    "timeMonth": 268,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2026-02-20": 54,
@@ -204,7 +204,7 @@
     "time": 1505,
     "timeDay": 1485,
     "timeWeek": 1360,
-    "timeMonth": 1367,
+    "timeMonth": 1373,
     "timeYear": 1505,
     "dailyMinutesDown": {
       "2026-02-27": 129,
@@ -231,7 +231,7 @@
     "time": 592,
     "timeDay": 651,
     "timeWeek": 523,
-    "timeMonth": 504,
+    "timeMonth": 506,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2026-02-27": 127,
@@ -257,7 +257,7 @@
     "time": 243,
     "timeDay": 340,
     "timeWeek": 266,
-    "timeMonth": 242,
+    "timeMonth": 244,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2026-03-01": 628,
@@ -314,15 +314,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sophiaspathbackend-production.up.railway.app.ico",
     "slug": "sophia-s-path-backend",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "78.72%",
     "uptimeWeek": "92.43%",
     "uptimeMonth": "98.14%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 3178,
-    "timeDay": 1202,
+    "timeDay": 1291,
     "timeWeek": 1363,
-    "timeMonth": 1656,
+    "timeMonth": 1632,
     "timeYear": 3178,
     "dailyMinutesDown": {
       "2026-03-09": 307,
