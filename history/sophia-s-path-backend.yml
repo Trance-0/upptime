@@ -1,7 +1,7 @@
 url: https://sophiaspathbackend-production.up.railway.app/admin
-status: up
-code: 200
-responseTime: 571
-lastUpdated: 2026-03-12T10:23:12.602Z
+status: down
+code: 502
+responseTime: 1075
+lastUpdated: 2026-03-12T11:02:59.979Z
 startTime: 2025-08-29T20:16:29.572Z
 generator: Upptime <https://github.com/upptime/upptime>
