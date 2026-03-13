@@ -1,7 +1,7 @@
 url: https://nextcloud.trance-0.com
-status: up
-code: 200
-responseTime: 669
-lastUpdated: 2026-03-12T23:21:17.843Z
+status: down
+code: 502
+responseTime: 212
+lastUpdated: 2026-03-13T22:36:15.278Z
 startTime: 2025-08-29T20:16:18.473Z
 generator: Upptime <https://github.com/upptime/upptime>
