@@ -331,17 +331,17 @@
     "url": "https://sophiaspathbackend-production.up.railway.app/admin",
     "icon": "https://icons.duckduckgo.com/ip3/sophiaspathbackend-production.up.railway.app.ico",
     "slug": "sophia-s-path-backend",
-    "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "55.23%",
-    "uptimeWeek": "75.56%",
-    "uptimeMonth": "83.91%",
-    "uptimeYear": "97.73%",
-    "time": 2215,
-    "timeDay": 1610,
+    "status": "down",
+    "uptime": "97.76%",
+    "uptimeDay": "55.74%",
+    "uptimeWeek": "75.85%",
+    "uptimeMonth": "84.09%",
+    "uptimeYear": "97.76%",
+    "time": 2213,
+    "timeDay": 1557,
     "timeWeek": 1524,
-    "timeMonth": 1403,
-    "timeYear": 2215,
+    "timeMonth": 1402,
+    "timeYear": 2213,
     "dailyMinutesDown": {
       "2026-04-02": 597,
       "2026-04-01": 233,
@@ -360,7 +360,7 @@
       "2026-03-19": 266,
       "2026-03-18": 732,
       "2026-03-17": 479,
-      "2026-03-16": 138
+      "2026-03-16": 59
     }
   }
 ]
