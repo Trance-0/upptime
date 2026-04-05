@@ -184,7 +184,7 @@
     "slug": "note-nextra",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "50.47%",
+    "uptimeDay": "58.79%",
     "uptimeWeek": "85.16%",
     "uptimeMonth": "96.41%",
     "uptimeYear": "99.25%",
@@ -334,17 +334,17 @@
     "url": "https://sophiaspathbackend-production.up.railway.app/admin",
     "icon": "https://icons.duckduckgo.com/ip3/sophiaspathbackend-production.up.railway.app.ico",
     "slug": "sophia-s-path-backend",
-    "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "88.37%",
+    "status": "down",
+    "uptime": "97.81%",
+    "uptimeDay": "88.35%",
     "uptimeWeek": "78.21%",
-    "uptimeMonth": "84.18%",
-    "uptimeYear": "97.80%",
-    "time": 2184,
-    "timeDay": 1476,
-    "timeWeek": 1513,
-    "timeMonth": 1401,
-    "timeYear": 2184,
+    "uptimeMonth": "84.26%",
+    "uptimeYear": "97.81%",
+    "time": 2182,
+    "timeDay": 1440,
+    "timeWeek": 1508,
+    "timeMonth": 1400,
+    "timeYear": 2182,
     "dailyMinutesDown": {
       "2026-04-05": 109,
       "2026-04-04": 118,
@@ -365,7 +365,7 @@
       "2026-03-20": 469,
       "2026-03-19": 266,
       "2026-03-18": 732,
-      "2026-03-17": 54
+      "2026-03-17": 19
     }
   }
 ]
