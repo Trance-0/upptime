@@ -23,6 +23,8 @@ sites:
     url: https://sophiaspath.vercel.app
   - name: Sophia's path (backend)
     url: https://sophiaspathbackend-production.up.railway.app/admin
+  - name: Notechondria (backend)
+    url: https://notechondria.trance-0.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
